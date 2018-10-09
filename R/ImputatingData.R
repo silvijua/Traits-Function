@@ -10,8 +10,6 @@ require(mice)
 require(lattice)
 require(magrittr)
 
-setwd("C:/Users/silvia/Documents/Fission-Fusion")
-
 ##load data at species level and change names
 load("FFsp.robj")
 
