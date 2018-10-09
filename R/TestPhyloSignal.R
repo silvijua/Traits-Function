@@ -6,8 +6,6 @@ library(dendextend)
 require(ade4)
 require(phytools)
 
-setwd("C:/Users/silvia/Documents/Fission-Fusion")
-
 load("FFsp.robj")
 
 d1<-dsp
