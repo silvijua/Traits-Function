@@ -7,8 +7,6 @@ require(ade4)
 require(plotrix)
 require(phylobase)
 require(dendextend)
-setwd("/Users/silvijua/Documents/Fission-Fusion")
-setwd("C:/Users/silvia/Favorites/Documents/Fission-Fusion")
 
 # HIERARCHICAL CLUSTERING OF SPECIES--------
 
