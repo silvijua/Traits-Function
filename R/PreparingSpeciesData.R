@@ -1,7 +1,6 @@
 #######################################################################################
            ####Preparing Data Set Social Systems Mammals-- SPECIES ########
 #######################################################################################
-setwd("C:/Users/silvia/Documents/Fission-Fusion")
 
 #estimating medians from pop dataset
 d<-read.csv("FFpopulations.csv")
