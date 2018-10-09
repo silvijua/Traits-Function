@@ -1,9 +1,6 @@
 ###########PCA SOCIAL TRAITS WITH MISSING DATA##############
 library(ks)
  
-
-setwd("C:/Users/silvia/Documents/Fission-Fusion")
-
 load("FFpops.robj")
 dpop<-scaled.d1
 dpop[dpop==""]<-NA
